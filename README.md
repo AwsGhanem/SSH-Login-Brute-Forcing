@@ -21,5 +21,10 @@
 This issue is related to the *`MaxAuthTries`* variable on the **`/etc/ssh/sshd_config`** text file, decreasing the number is just a security wise.
 
 
-  ![image](https://github.com/AwsGhanem/SSH-Login-Brute-Forcing/assets/123994471/bf7ac522-b699-48f2-805a-7e796291b328)
+![image](https://github.com/AwsGhanem/SSH-Login-Brute-Forcing/assets/123994471/bf7ac522-b699-48f2-805a-7e796291b328)
+
+
+![image](https://github.com/AwsGhanem/SSH-Login-Brute-Forcing/assets/123994471/02ce5632-83fc-4706-a3f7-d9ea5142ce31)
+
+![image](https://github.com/AwsGhanem/SSH-Login-Brute-Forcing/assets/123994471/01d826e2-e787-4522-ad08-74228aa2ceb8)
 
