@@ -17,7 +17,7 @@
 - Start the venv **`source myenv/bin/activate`**
 #
 
-### Problems within the number of attepmts
+### Problems related to the number of attepmts
 This issue is related to the *`MaxAuthTries`* variable on the **`/etc/ssh/sshd_config`** text file, decreasing the number is just a security wise.
 
 
