@@ -35,6 +35,10 @@ This issue is related to the *`MaxAuthTries`* variable on the **`/etc/ssh/sshd_c
 
 ## Security Concerns
 Getting credentials for an authorized user in some organization or whatever, may lead to a problem with accessing confidential data, the main problem is `Whats the access rights for every user?`, when it comes to remote access there must be **Access Control**, or what we call **`Authorization`**.
+
+##
+As i provided the experiment, when i connected from a remote machine to the SSH Server, i could make anything withing the data contained on the server (read,write,execute,delete,etc...), and i could run any tool and view the machine information, or maybe i can access other users information.
+
 ## 
-Specifing the access rights for every user (or groups) and making only the admins to be authorized to access the most important data and tools, will solve the majority of this problem.
+Specifing the access rights for every user (or groups) and making only the admins to be authorized to access the most important data and tools, will solve the majority of this problem. 
 
